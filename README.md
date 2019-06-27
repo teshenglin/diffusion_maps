@@ -1,4 +1,4 @@
-# diffusion_maps
+# diffusion_maps ---
 
 --
 ## References:
