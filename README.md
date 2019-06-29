@@ -1,4 +1,4 @@
-# diffusion_maps ---
+# diffusion_maps
 
 --
 ## References:
@@ -38,11 +38,17 @@ git pull
 
 
 --
+## 6/27 - To do list
+* Explaine SVD, and the relation betweem SVD and eigenvalue for square (positive) matrix
+* Explaine diffusion maps
+
+## 6/25 - To do list
+* Install git, jupyter notebook on desktop and link to github for collaborate version control
+
 ## 6/24 - To do list
 * Run Ann Lee's Matlab code
 * Download data from "Self-Tuning Spectral Clustering" and test the performance of the data in Ann Lee's code
 * Github: Use Jupyter Notebook to start writing a python version of diffusion maps
 * Read diffusion maps by Coifman and Lafon
 
-## 6/24 - To do list
-* Install git, jupyter notebook on desktop and link to github for collaborate version control
+
