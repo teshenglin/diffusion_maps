@@ -38,6 +38,12 @@ git pull
 
 
 --
+## 7/1 - To do list
+* Explaine "check the distribution of nearest neighbors"
+* SVD
+
+
+
 ## 6/27 - To do list
 * Explaine SVD, and the relation betweem SVD and eigenvalue for square (positive) matrix
 * Explaine diffusion maps
