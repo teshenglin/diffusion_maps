@@ -38,6 +38,9 @@ git pull
 
 
 --
+## 7/5 - To do list
+* Read literatures about DM
+
 ## 7/3 - To do list
 * labelling of N clustering
 * python code for Manor's method
