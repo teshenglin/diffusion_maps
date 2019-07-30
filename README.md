@@ -38,6 +38,20 @@ git pull
 
 
 --
+## 7/18 - To do list
+* 降維度的 $k$ 如何選取
+* 如何自動決定分幾群
+* Gaussian kernal 中 $\sigma$ 的選擇有什麼影響
+* slide of a 15min talk
+
+## 7/11 - To do list
+* Read sec 8 (proofs) of "An\_introduction\_DM.pdf"
+* Implement the "automatic grouping determination" by [Manor, Perona]
+* Read [Nadler]Diffusion\_maps
+
+## 7/5 - To do list
+* Read literatures about DM
+
 ## 7/3 - To do list
 * labelling of N clustering
 * python code for Manor's method
