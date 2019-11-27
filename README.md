@@ -4,6 +4,7 @@
 ## Introductory notes
 
 * In Python by Yu-Jie Ho, summer 2019.
+* In Julia by Ching-Ru Chung, Fall 2019.
 
 
 ## References:
