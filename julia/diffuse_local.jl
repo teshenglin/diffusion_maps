@@ -112,7 +112,7 @@ function get_eig(Q, d_sq)
     return v, S;
 end
 
-c = 3 ; # the desired reduced dimension
+c = 5 ; # the desired reduced dimension
 
 v, s = get_eig(Q , d_sq);
 p1 = scatter(s[1:10], label="eigenvalues 1:10");
@@ -135,6 +135,6 @@ end
 Y = get_Y(v, s, c);
 
 # print diffution map
-p1 = scatter(Y[:,1], Y[:,2], label="2D", aspect_ratio=:equal)
+p1 = scatter(Y[:,1], Y[:,3], label="2D", aspect_ratio=:equal)
 p2 = scatter(Y[:,1], Y[:,2], Y[:,3], label="3D", aspect_ratio=:equal)
 plot(p1, p2, layout=2)

@@ -3,7 +3,7 @@ using MAT
 using Plots
 using Statistics
 
-file = matread("Data.mat");
+file = matread("Data2.mat");
 X = file["data"];
 
 # Visualize the first two dimension of the data
