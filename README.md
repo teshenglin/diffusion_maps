@@ -5,7 +5,7 @@
 
 * In Python by [Yu-Jie Ho](https://github.com/yujieho/Diffusion_Maps), summer 2019.
 * In Julia by [Ching-Ru Chung](https://github.com/chingruchung/Diffusion-Maps-in-Julia), Fall 2019.
-
+* In Matlab by Te-Sheng Lin, 2021.
 
 ## References:
 
